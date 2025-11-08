@@ -122,7 +122,7 @@ const Home = () => {
               principles, patience, risk management in bright young minds. We
               strive for excellence in every financial domain and connect
               students to various shareholders of the same and nurture young
-              minds with the values of passion and self investment.
+              minds with the values of passion and self investment. 
             </p>
           {/*
           <div className="col-2">
